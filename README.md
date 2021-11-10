@@ -1,4 +1,9 @@
-### Hi there 👋
+### hello there! 👋
+
+My name is Osama Hamad, a high school student who is passionate about computer science and programming. I like to work on whatever projects I think are fun or potentially benefitial to me or others.
+
+- 🔭 Project I am mainly working on: Physics calculator for high school students.
+- 👯 I hope to contribute more to open source projects in the future. 
 
 <!--
 **osHamad/osHamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
