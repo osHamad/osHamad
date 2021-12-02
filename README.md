@@ -2,7 +2,8 @@
 
 My name is Osama Hamad, a high school student who is passionate about computer science and programming. I like to work on whatever projects I think are fun or potentially benefitial to me or others.
 
-- 🔭 Project I am mainly working on: Physics calculator for high school students.
+- 🔭 Project I am mainly working on: A url shortener chrome extension.
+- 🌱 I’m currently learning how to build web applications with the mern stack.
 - 👯 I hope to contribute more to open source projects in the future. 
 
 <!--
