@@ -1,10 +1,10 @@
 ### hello there! 👋
 
-My name is Osama Hamad, a high school student who is passionate about computer science and programming. I like to work on whatever projects I think are fun or potentially benefitial to me or others.
+My name is Osama Hamad, a high school student who is passionate about computer science and programming. I like to work on whatever projects I think are fun or potentially benefitial to me or others. My main interests are machine learning and back-end web development
 
-- 🔭 Project I am mainly working on: A full stack web forum for my school board for math and science support.
-- 🌱 I’m currently learning how to build web applications with the mern stack.
-- 👯 I hope to contribute more to open source projects in the future. 
+- 🔭 Project I am currently working on a demo social media platform for photographers.
+- 🌱 I’m currently learning how to develop client interfaces with React.
+- 👯 I hope to contribute more to open source projects.
 
 <!--
 **osHamad/osHamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
