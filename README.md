@@ -2,7 +2,6 @@
 
 My name is Osama Hamad, a high school student who is passionate about computer science and programming. I like to work on whatever projects I think are fun or potentially benefitial to me or others. My main interests are machine learning and back-end web development
 
-- 🔭 Project I am currently working on a demo social media platform for photographers.
 - 🌱 I’m currently learning how to develop client interfaces with React.
 - 👯 I hope to contribute more to open source projects.
 
